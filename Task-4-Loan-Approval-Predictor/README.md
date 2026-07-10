@@ -6,7 +6,7 @@
 - Full Name: **[Rupesh Singh]**
 - Duration: **[8 Weeks]**
 
-> ✏️ *Replace the three placeholders above with your actual details before submitting.*
+
 
 ## Project Scope
 
