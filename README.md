@@ -1,12 +1,11 @@
-#Inter-ID: CITS2473
+
 # Loan Approval Predictor
 
 ## Intern Details
 
-- Intern ID: **[FILL IN YOUR INTERN ID]**
-- Full Name: **[FILL IN YOUR NAME]**
-- Duration: **[FILL IN DURATION, e.g. 8 Weeks]**
-
+- Intern ID: **[CITS2473]**
+- Full Name: **[Rupesh Singh]**
+- Duration: **[8 Weeks]**
 > ✏️ *Replace the three placeholders above with your actual details before submitting.*
 
 ## Project Scope
